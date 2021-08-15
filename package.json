@@ -12,6 +12,7 @@
     "connect-busboy": "0.0.2",
     "ipfs-http-client": "^50.1.2",
     "jquery": "^3.6.0",
+    "node-fetch": "^2.6.1",
     "popper.js": "^1.16.1",
     "react": "^17.0.2",
     "react-bootstrap": "^1.5.2",
